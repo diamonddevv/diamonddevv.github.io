@@ -1,0 +1,16 @@
+html {
+    background-color: #121212;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.navbarElement {
+    display: inline;
+    width: 60px;
+}
