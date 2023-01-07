@@ -1,0 +1,16 @@
+.bannerCropped {
+    width: 1235px; 
+    height: 338px; 
+    overflow: hidden;
+    object-fit: cover;
+}
+
+footer a {
+    color: white;
+}
+
+footer .repo {
+    color: greenyellow;
+    font-style: italic;
+    font-family: monospace;
+}
