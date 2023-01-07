@@ -1,0 +1,18 @@
+.modsList ul {
+    list-style-type: none;
+}
+
+.modsList ul li {
+    padding: 25px;
+    float: left;
+    display: block;
+    border: 1px solid white;
+    background-color: rgb(73, 73, 73);
+    margin: 5px;
+}
+
+.modsList ul li p {
+    text-decoration: none;
+    color: #fff;
+    text-align: center;
+}
