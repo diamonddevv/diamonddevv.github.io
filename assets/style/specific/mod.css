@@ -1,8 +1,12 @@
-h3.goBackButton {
-    border: 1px solid white;
-}
 
 h3.goBackButton a {
     text-decoration: none;
     color: white;
+}
+
+    
+
+h5.link img {
+    height: 50px;
+    padding: 2px;
 }
