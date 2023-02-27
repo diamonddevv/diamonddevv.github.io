@@ -9,3 +9,17 @@ h5.link img {
     height: 50px;
     padding: 2px;
 }
+
+.link a:visited {
+    color:#fff;
+}
+
+.link a:hover {
+    padding: 8px;
+    color: rgb(124, 118, 118);
+}
+
+.link a:active {
+    text-decoration: none;
+    color:#fff
+}
