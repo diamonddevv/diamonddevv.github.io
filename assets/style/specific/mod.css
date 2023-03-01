@@ -23,3 +23,7 @@ h5.link img {
     text-decoration: none;
     color:#fff
 }
+
+.title img {
+    border-radius: 5%;
+}
