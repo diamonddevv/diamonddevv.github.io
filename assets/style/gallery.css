@@ -1,0 +1,23 @@
+div.galleryList ul {
+    list-style-type: none;
+}
+
+div.galleryList ul li {
+    padding: 25px;
+    float: left;
+    display: block;
+    border: 1px solid white;
+    background-color: rgb(73, 73, 73);
+    margin: 5px;
+}
+
+div.galleryList ul li p {
+    text-decoration: none;
+    color: #fff;
+    text-align: center;
+}
+
+p.small {
+    font-size: 15px;
+    font-style: italic;
+}
