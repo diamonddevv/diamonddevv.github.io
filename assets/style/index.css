@@ -1,11 +1,3 @@
-.bannerCropped {
-    width: 1235px; 
-    height: 338px; 
-    overflow: hidden;
-    object-fit: cover;
-    object-fit: contain;
-}
-
 footer a {
     color: white;
 }
