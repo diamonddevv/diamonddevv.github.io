@@ -4,6 +4,10 @@ html {
     font-family: 'consolas', sans-serif
 }
 
+a {
+    color: #fff
+}
+
 .navbar ul {
     list-style-type: none;
     margin: 0;
